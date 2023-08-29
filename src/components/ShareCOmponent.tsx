@@ -13,6 +13,7 @@ const ShareCOmponent: React.FC<ShareComponentProps> = ({
       width="15"
       height="13"
       onClick={toggle}
+      className="cursor-pointer"
     >
       <path
         fill={fillColor}
