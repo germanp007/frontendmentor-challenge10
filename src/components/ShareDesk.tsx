@@ -12,13 +12,13 @@ const ShareDesk = () => {
           </h1>
         </div>
         <div className="col-span-2 flex items-center justify-evenly ">
-          <i>
+          <i className="cursor-pointer">
             <Facebook />
           </i>
-          <i>
+          <i className="cursor-pointer">
             <Twitter />
           </i>
-          <i>
+          <i className="cursor-pointer">
             <Pinterest />
           </i>
         </div>
